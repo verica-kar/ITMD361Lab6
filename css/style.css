@@ -7,15 +7,13 @@ td{
 }
 
 th, #leftHead {
+  size: 20%;
   border: 1px solid;
   color: darkslateblue;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   font-size: 15px;
-}
-
-#topRow {
   background-color: blanchedalmond;
   border: 2px solid darkslateblue;
 }
@@ -29,9 +27,8 @@ h1 {
 
 table {
   align-self: center;
-  size: 50%;
 }
 
 #images {
-  width: 10px;
+  width: 20%;
 }
