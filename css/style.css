@@ -1,10 +1,10 @@
-th {
+td{
 	border: 1px solid;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
 
-td {
+th, #leftHead {
   border: 1px solid;
   color: darkslateblue;
   text-align: center;
@@ -14,8 +14,9 @@ td {
 
 h1 {
   color: darkcyan;
-  font-size: 20px;
+  font-size: 50px;
   font-family: 'Lucida Console', monospace;
+  text-align: center;
 }
 
 #planets {
