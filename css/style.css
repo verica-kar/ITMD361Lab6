@@ -1,11 +1,11 @@
 body {
-  background-image: url("images/background.JPG");
+  background-image: href("images/background.JPG");
   background-size: cover;
   background-color: black;
 }
 
 td{
-	border: 3px dashed darkslateblue;
+	border: 2px dotted darkslateblue;
   border-radius: 10px;
   text-align: center;
   font-size: 15px;
@@ -13,9 +13,8 @@ td{
   background-color: aliceblue;
 }
 
-th, #leftHead {
-  size: 20%;
-  border: 1px solid;
+th {
+  width: 20%;
   color: darkslateblue;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
@@ -23,20 +22,31 @@ th, #leftHead {
   font-size: 20px;
   border-radius: 10px;
   background-color: blanchedalmond;
-  border: 3px solid darkslateblue;
+  border: 2px solid darkslateblue;
+}
+
+#leftHead {
+  color: darkslateblue;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  border: 2px solid darkslateblue;
 }
 
 h1 {
   color: darkcyan;
   font-size: 50px;
-  font-family: 'Lucida Console', monospace;
+  font-family: 'Papyrus', fantasy;
   text-align: center;
 }
 
 h2 {
   color: blanchedalmond;
   font-size: 30px;
-  font-family: 'Lucida Console', monospace;
+  font-family: 'Papyrus', fantasy;
   text-align: center;
 }
 
@@ -45,7 +55,7 @@ h2 {
 }
 
 #images {
-  width: fit-content;
+  width: 100%;
   background-color: none;
   border: none;
 }
