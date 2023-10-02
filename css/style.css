@@ -1,10 +1,24 @@
-td, th {
+th {
 	border: 1px solid;
-  }
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
 
-h1{
+td {
+  border: 1px solid;
+  color: darkslateblue;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+h1 {
   color: darkcyan;
   font-size: 20px;
   font-family: 'Lucida Console', monospace;
 }
-  
+
+#planets {
+  align-items: center;
+
+}
