@@ -5,9 +5,10 @@ body {
 }
 
 td{
-	border: 1px solid;
+	border: 3px dashed darkslateblue;
+  border-radius: 10px;
   text-align: center;
-  font-size: 10px;
+  font-size: 15px;
   font-family: 'Courier New', Courier, monospace;
   background-color: aliceblue;
 }
@@ -19,14 +20,22 @@ th, #leftHead {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 20px;
+  border-radius: 10px;
   background-color: blanchedalmond;
-  border: 2px solid darkslateblue;
+  border: 3px solid darkslateblue;
 }
 
 h1 {
   color: darkcyan;
   font-size: 50px;
+  font-family: 'Lucida Console', monospace;
+  text-align: center;
+}
+
+h2 {
+  color: blanchedalmond;
+  font-size: 30px;
   font-family: 'Lucida Console', monospace;
   text-align: center;
 }
@@ -37,4 +46,6 @@ h1 {
 
 #images {
   width: fit-content;
+  background-color: none;
+  border: none;
 }
