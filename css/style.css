@@ -4,7 +4,7 @@ td{
   font-family: 'Courier New', Courier, monospace;
 }
 
-th, #leftHead {
+th, td.leftHead {
   border: 1px solid;
   color: darkslateblue;
   text-align: center;
@@ -19,7 +19,6 @@ h1 {
   text-align: center;
 }
 
-#planets {
-  align-items: center;
-
+table {
+  align-self: center;
 }
