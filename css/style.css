@@ -1,6 +1,7 @@
 td{
 	border: 1px solid;
   text-align: center;
+  font-size: 10px;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -10,8 +11,12 @@ th, #leftHead {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  font-size: 15px;
+}
+
+#topRow {
   background-color: blanchedalmond;
-  border: 2px darkslateblue;
+  border: 2px solid darkslateblue;
 }
 
 h1 {
@@ -23,4 +28,9 @@ h1 {
 
 table {
   align-self: center;
+  size: 50%;
+}
+
+#images {
+  width: 10px;
 }
