@@ -3,6 +3,7 @@ td{
   text-align: center;
   font-size: 10px;
   font-family: 'Courier New', Courier, monospace;
+  background-color: aliceblue;
 }
 
 th, #leftHead {
