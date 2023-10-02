@@ -4,12 +4,14 @@ td{
   font-family: 'Courier New', Courier, monospace;
 }
 
-th, td.leftHead {
+th, #leftHead {
   border: 1px solid;
   color: darkslateblue;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  background-color: blanchedalmond;
+  border: 2px darkslateblue;
 }
 
 h1 {
