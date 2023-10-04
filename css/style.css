@@ -1,6 +1,4 @@
 body {
-  background-image: url('images/background.JPG');
-  background-size: cover;
   background-color: black;
 }
 
@@ -26,7 +24,7 @@ th {
   border: 2px solid darkslateblue;
 }
 
-.leftHead {
+td.leftHead {
   color: darkslateblue;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
@@ -55,7 +53,7 @@ h2 {
   align-self: center;
 }
 
-.imgtd {
+td.imgtd {
   background-color: transparent;
   border: none;
 }
