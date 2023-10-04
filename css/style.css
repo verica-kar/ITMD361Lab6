@@ -1,7 +1,6 @@
 body {
   background-image: url('images/background.JPG');
   background-size: cover;
-  background-color: black;
 }
 
 td{
@@ -9,6 +8,7 @@ td{
   border-radius: 10px;
   text-align: center;
   font-size: 15px;
+  font-weight: bold;
   font-family: 'Courier New', Courier, monospace;
   background-color: aliceblue;
 }
