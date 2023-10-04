@@ -63,3 +63,8 @@ h2 {
 #images {
   width: 75%;
 }
+
+#corner {
+  background-color: transparent;
+  border: none;
+}
