@@ -59,7 +59,7 @@ td.imgtd {
 }
 
 img.images {
-  width: 75%;
+  width: fit-content;
 }
 
 #corner {
